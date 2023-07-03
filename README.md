@@ -1,2 +1,3 @@
 # Recursion
+Let xHead, yHead, and zHead be the head pointers of 3 linked lists of integers (called X-list, Y-list, and Z-list, respectively, from here). X-list and Y-list are each sorted (in non-decreasing order) in itself and each may be empty. Z-list is initially empty (i.e., zhead initially contains the null pointer).
 Develop and test a recursive C++ function called Merge2AscListsRecur that combines the nodes in X-list and Y-list into Z-list such that, after calling the function, Z-list is a sorted list (in non-decreasing order) containing all the nodes initially contained in X-list and Y-list  –  X-list and Y-list should both be empty after the call.
